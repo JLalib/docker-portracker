@@ -1,4 +1,4 @@
-# Portracker en Docker | Rastreador de torrents autoalojado
+# Portracker en Docker | Rastreador de puertos autoalojado
 
 Portracker es un rastreador de torrents ligero y autoalojado que puedes desplegar fácilmente en Docker. Ideal para crear tu propio tracker privado o gestionar torrents de forma interna en tu red.
 
